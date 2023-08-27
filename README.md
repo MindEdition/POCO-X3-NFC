@@ -1,6 +1,6 @@
 # POCO X3 NFC // Surya - Karna
 
-![surya](https://github.com/MindEdition/POCO-X3-NFC/assets/83476983/d415d223-6bfb-494a-ab25-c67ecde7df41)
+![surya](https://github.com/MindEdition/POCO-X3-NFC/assets/83476983/d1cd9eff-0332-4e53-bef1-07d988bc3d76)
 
 ## Download:
 - [Pling](https://www.pling.com/p/1915347/)
